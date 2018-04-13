@@ -5,13 +5,13 @@ Copies all files from a directory to current directory
 # Usage
 
 ```
-./kopy.sh <COPY FROM>
+./kopy <COPY FROM>
 ```
 
 e.g.
 
 ```
-./kopy.sh .dev
+./kopy ./dev
 ```
 
-will copy everything from `.dev` into the current directory
+will copy everything from `dev` into the current directory
